@@ -20,7 +20,7 @@ docker compose up -d
 ## 📷 Evidência - Criação dos containers
 
 ```
-![alt text](image.png)
+<img width="342" height="86" alt="image" src="https://github.com/user-attachments/assets/f76d3594-271d-45dd-90af-f828b94d6d2e" />
 ```
 
 ---
@@ -28,7 +28,9 @@ docker compose up -d
 ## 📷 Evidência - Serviços ativos
 
 ```
-![alt text](image-1.png)
+
+<img width="1333" height="85" alt="image" src="https://github.com/user-attachments/assets/8f367ca3-ddd9-4819-b984-0514875c5655" />
+
 ```
 
 ---
