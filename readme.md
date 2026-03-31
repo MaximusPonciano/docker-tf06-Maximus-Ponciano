@@ -25,6 +25,10 @@ docker compose up -d
 
 ![Evidência - Serviços ativos](https://github.com/user-attachments/assets/8f367ca3-ddd9-4819-b984-0514875c5655)
 
+### 📷 Evidência - Comunicação entre serviços
+![alt text](image-2.png)
+
+
 ## 🔗 Teste de comunicação entre serviços
 
 ```bash
